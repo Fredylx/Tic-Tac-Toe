@@ -1,7 +1,7 @@
 # Tik-Tac-Toe App
 
 ## Overview
-This Tik-Tac-Toe app is a classic, simple game developed in Swift for iOS. It provides a sleek, user-friendly interface for playing the well-loved game of Tik-Tac-Toe on any iOS device. The app supports single-player mode against an AI opponent and a two-player mode for playing against friends.
+This Tik-Tac-Toe app is a classic, simple game developed in Swift for iOS. 
 
 ## Features
 - **Single Player Mode:** Play against a computer-controlled opponent.
