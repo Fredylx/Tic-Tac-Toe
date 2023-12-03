@@ -1,9 +1,3 @@
-# Tic-Tac-Toe
-Not your average game of Tic Tac Toe, Bleeding Edge SwiftUI Technology Overload
-Creating a README for a Tik-Tac-Toe app developed in Swift is a great way to document your project and guide others in understanding and using your application. Below is a template you can use as a starting point. Modify it according to your app's specific features, requirements, and any additional information you might want to include.
-
----
-
 # Tik-Tac-Toe App
 
 ## Overview
